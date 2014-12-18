@@ -1,1 +1,1 @@
-{"name":"Rsmm-dms-docs","tagline":"Documentation for Style Management System and DMS Skeleton theme","body":"### Shortcodes\r\n\r\n```[custom_menu]```\r\narguments: \r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Rsmm-dms-docs","tagline":"Documentation for Style Management System and DMS Skeleton theme","body":"{{content}}","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
